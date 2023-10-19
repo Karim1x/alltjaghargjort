@@ -1,0 +1,25 @@
+
+#blå{
+    background-color: aqua;
+}
+#lila{
+    background-color: blueviolet;
+}
+
+    .fontdiv {
+        font-size: large;
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 200;
+}
+    img{
+        max-width: 100%;
+        height: auto;
+    }
+    .borderdiv {
+        border: 1px solid black;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 150px;
+        margin-left: 80px;
+        background-color: lightblue;
+      }
