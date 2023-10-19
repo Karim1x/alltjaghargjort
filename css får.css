@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 80px;
+    display:table;
+    border-bottom:15px solid black;
+    padding-right:50px;
+    text-align: center;
+    margin-left: 305px;
+    width: 50%;
+}
+u {
+    text-decoration: underline;
+  }
+  .image {
+	background-image: url(c:\Users\KarimMustafa\Downloads\pexels-artur-roman-518400.jpg);
+	height: 250px;
+}
+h2 {
+  margin-left: -700px;
+  font-weight: bold;
+  color: white;
+  margin-top: 600px;
+  font-size: 40px;
+}
+p {
+  color: white;
+  font-size: 20px;
+}
+.button1 {
+  background-color: rgb(35, 35, 35)
+}
+.button1 {width: 100%;}
+.button1 {height: 40px;}
+
+#logo{ 
+	top:0; 
+	left:0; 
+} 
+h3 {
+  font-size: 40px;
+}
